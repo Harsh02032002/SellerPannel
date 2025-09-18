@@ -103,6 +103,7 @@ const AddProduct = () => {
         gap: "20px",
         padding: "20px",
         fontFamily: "'Segoe UI', sans-serif",
+        margin: "100px auto",
       }}
     >
       {/* Left Form */}
