@@ -44,6 +44,7 @@ const BulkImport = () => {
         gap: "20px",
         padding: "20px",
         fontFamily: "'Segoe UI', sans-serif",
+        margin: "100px auto",
       }}
     >
       {/* Left Side: Bulk Import Form */}

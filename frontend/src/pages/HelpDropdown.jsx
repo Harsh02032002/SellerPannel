@@ -28,6 +28,7 @@ const styles = {
     minHeight: "100vh",
     background: "#f9f9fb",
     fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
+    margin:"100px auto",
   },
   title: {
     fontSize: "26px",

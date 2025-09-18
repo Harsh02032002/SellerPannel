@@ -20,6 +20,7 @@ const RechargeWallet = ({ onRecharge }) => {
         borderRadius: "12px",
         boxShadow: "0 6px 20px rgba(0,0,0,0.1)",
         padding: "20px",
+        margin: "100px auto",
       }}
     >
       <h1

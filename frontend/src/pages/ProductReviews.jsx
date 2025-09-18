@@ -11,6 +11,7 @@ const ProductReviews = ({ reviews }) => {
         fontFamily: "'Segoe UI', sans-serif",
         width: "100%",
         overflowX: "auto",
+        margin: "100px auto",
       }}
     >
       <h2

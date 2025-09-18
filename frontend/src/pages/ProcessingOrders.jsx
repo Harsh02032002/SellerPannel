@@ -94,7 +94,7 @@ const ProcessingOrders = () => {
 };
 
 const styles = {
-  container: { margin: "20px 0", fontFamily: "Arial, sans-serif" },
+  container: { margin:"100px auto", fontFamily: "Arial, sans-serif" },
   heading: {
     fontSize: "22px",
     fontWeight: 700,

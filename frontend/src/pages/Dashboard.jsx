@@ -117,9 +117,10 @@ const Dashboard = () => {
     <div
       style={{
         padding: "25px",
-       
+
         minHeight: "100vh",
         fontFamily: "'Segoe UI', sans-serif",
+        margin: "100px auto",
       }}
     >
       {/* Welcome Section */}
@@ -145,7 +146,6 @@ const Dashboard = () => {
           style={{
             padding: "20px",
             borderRadius: "16px",
-            
           }}
         >
           <div
@@ -171,7 +171,7 @@ const Dashboard = () => {
                   key={index}
                   style={{
                     ...cardStyle,
-                     background: cardBackgroundColors[index],
+                    background: cardBackgroundColors[index],
                   }}
                   onMouseEnter={(e) =>
                     (e.currentTarget.style.transform = "scale(1.05)")

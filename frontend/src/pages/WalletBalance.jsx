@@ -13,7 +13,14 @@ const WalletBalance = ({ balance, lastTransaction }) => {
   };
 
   return (
-    <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        gap: "20px",
+        margin: "100px auto",
+      }}
+    >
       {/* Wallet Card */}
       <div
         style={{

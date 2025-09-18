@@ -114,6 +114,7 @@ const styles = {
     padding: "30px",
     background: "#f9f9fb",
     minHeight: "100vh",
+    margin: "100px auto",
   },
   container: { width: "80%", maxWidth: "1000px" },
 
